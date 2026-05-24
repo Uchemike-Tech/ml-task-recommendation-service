@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+venv/
+*.joblib
+!best_task_model.joblib
+!scaler.joblib
+!complete_metadata.joblib
